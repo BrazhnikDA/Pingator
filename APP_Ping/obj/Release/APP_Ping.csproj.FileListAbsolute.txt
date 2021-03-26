@@ -1,0 +1,13 @@
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\bin\Release\APP_Ping.exe.config
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\bin\Release\APP_Ping.exe
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\bin\Release\APP_Ping.pdb
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.Form1.resources
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.Properties.Resources.resources
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.exe
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.pdb
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.Author.resources
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.Settings.resources
+C:\Users\DIMA\source\repos\APP_Ping\APP_Ping\obj\Release\APP_Ping.SettingsPing.resources

@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="APP_Ping.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Классическая" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Классическая</Value>
+    </Setting>
+    <Setting Name="font" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="Tema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Классическая</Value>
+    </Setting>
+    <Setting Name="ScaleInterface" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Средний</Value>
+    </Setting>
+    <Setting Name="Language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Русский</Value>
+    </Setting>
+    <Setting Name="ColorLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Чёрный</Value>
+    </Setting>
+    <Setting Name="FatLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Graphik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Гладкий</Value>
+    </Setting>
+    <Setting Name="X" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Время запроса</Value>
+    </Setting>
+    <Setting Name="Warning" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&gt;100 пинга</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
